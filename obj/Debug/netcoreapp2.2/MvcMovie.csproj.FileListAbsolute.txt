@@ -30,3 +30,4 @@ C:\Users\Phedri\Documents\code_2020\dotnet\MvcMovie\MvcMovie\obj\Debug\netcoreap
 C:\Users\Phedri\Documents\code_2020\dotnet\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.dll
 C:\Users\Phedri\Documents\code_2020\dotnet\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.pdb
 C:\Users\Phedri\Documents\code_2020\dotnet\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.csproj.CopyComplete
+C:\Users\Phedri\Documents\code_2020\dotnet\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.cshtml.g.cs
